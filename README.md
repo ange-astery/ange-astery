@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Digital%20Sciences%20Engineer%2C%20building%20apps%20that%20solve%20real%20problems%20%F0%9F%92%BB;Full-Stack%20Developer%20from%20idea%20to%20production-ready%20apps (Flutter%2C%20React%2C%20Node.js)%20%F0%9F%94%A7;Building%20and%20scaling%20digital%20experiences%20as%20%40AngeAstery%20%F0%9F%9A%80;Transitioning%20to%20AI%20and%20Cloud%20Infrastructures%20%E2%98%81%EF%B8%8F%F0%9F%A4%96" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Digital%20Sciences%20Engineer%2C%20building%20apps%20that%20solve%20real%20problems%20%F0%9F%92%BB;Full-Stack%20Developer%20from%20idea%20to%20production-ready%20apps%20(Flutter%2C%20React%2C%20Node.js)%20%F0%9F%94%A7;Building%20and%20scaling%20digital%20experiences%20as%20%40AngeAstery%20%F0%9F%9A%80;Transitioning%20to%20AI%20and%20Cloud%20Infrastructures%20%E2%98%81%EF%B8%8F%F0%9F%A4%96" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
