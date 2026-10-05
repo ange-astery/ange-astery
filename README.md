@@ -30,7 +30,7 @@ Previously, I completed my software engineering degree at **IAI Cameroun**, wher
 ## Connect with me
 
 <p align="center">
-  <a href="www.linkedin.com/in/ange-orelien-fosso-77a4aa24b" target="_blank">
+  <a href="https://www.linkedin.com/in/ange-orelien-fosso-77a4aa24b" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/ange.astery/" target="_blank">
